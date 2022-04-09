@@ -224,6 +224,9 @@
     "/bnu/bs/:category?": [
         "nczitzk"
     ],
+    "/bookfere/:category": [
+        "OdinZhang"
+    ],
     "/brooklynmuseum/exhibitions": [
         "chazeon"
     ],
@@ -3612,6 +3615,5 @@
     "/secrss/category/:category?": [],
     "/secrss/author/:author?": [],
     "/fashionnetwork/headline/:country?": [],
-    "/mirror/:id": [],
-    "/bookfere/:category": []
+    "/mirror/:id": []
 }
